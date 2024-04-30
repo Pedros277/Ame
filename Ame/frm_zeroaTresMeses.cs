@@ -56,6 +56,8 @@ namespace Ame
         {
             frm_P1 p1 = new frm_P1();
             p1.ShowDialog();
+            this.Dispose();
+
         }
     }
 }

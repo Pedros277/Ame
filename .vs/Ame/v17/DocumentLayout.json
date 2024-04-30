@@ -1,7 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Igor\\source\\repos\\Ame\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Projetos\\Ame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE17E011-6CAD-4F5D-9ACB-7693E3B0F8C4}|Ame\\Ame.csproj|d:\\projetos\\ame\\ame\\frmp3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE17E011-6CAD-4F5D-9ACB-7693E3B0F8C4}|Ame\\Ame.csproj|solutionrelative:ame\\frmp3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE17E011-6CAD-4F5D-9ACB-7693E3B0F8C4}|Ame\\Ame.csproj|d:\\projetos\\ame\\ame\\frmp3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE17E011-6CAD-4F5D-9ACB-7693E3B0F8C4}|Ame\\Ame.csproj|solutionrelative:ame\\frmp3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE17E011-6CAD-4F5D-9ACB-7693E3B0F8C4}|Ame\\Ame.csproj|d:\\projetos\\ame\\ame\\frm_saudedacrianca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE17E011-6CAD-4F5D-9ACB-7693E3B0F8C4}|Ame\\Ame.csproj|solutionrelative:ame\\frm_saudedacrianca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE17E011-6CAD-4F5D-9ACB-7693E3B0F8C4}|Ame\\Ame.csproj|d:\\projetos\\ame\\ame\\frm_zeroatresmeses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE17E011-6CAD-4F5D-9ACB-7693E3B0F8C4}|Ame\\Ame.csproj|solutionrelative:ame\\frm_zeroatresmeses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmP3.cs",
+              "DocumentMoniker": "D:\\Projetos\\Ame\\Ame\\frmP3.cs",
+              "RelativeDocumentMoniker": "Ame\\frmP3.cs",
+              "ToolTip": "D:\\Projetos\\Ame\\Ame\\frmP3.cs",
+              "RelativeToolTip": "Ame\\frmP3.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T02:54:37.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmP3.cs [Projeto]",
+              "DocumentMoniker": "D:\\Projetos\\Ame\\Ame\\frmP3.cs",
+              "RelativeDocumentMoniker": "Ame\\frmP3.cs",
+              "ToolTip": "D:\\Projetos\\Ame\\Ame\\frmP3.cs [Projeto]",
+              "RelativeToolTip": "Ame\\frmP3.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T02:54:33.976Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_saudeDaCrianca.cs [Projeto]",
+              "DocumentMoniker": "D:\\Projetos\\Ame\\Ame\\frm_saudeDaCrianca.cs",
+              "RelativeDocumentMoniker": "Ame\\frm_saudeDaCrianca.cs",
+              "ToolTip": "D:\\Projetos\\Ame\\Ame\\frm_saudeDaCrianca.cs [Projeto]",
+              "RelativeToolTip": "Ame\\frm_saudeDaCrianca.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T02:54:03.231Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_zeroaTresMeses.cs [Projeto]",
+              "DocumentMoniker": "D:\\Projetos\\Ame\\Ame\\frm_zeroaTresMeses.cs",
+              "RelativeDocumentMoniker": "Ame\\frm_zeroaTresMeses.cs",
+              "ToolTip": "D:\\Projetos\\Ame\\Ame\\frm_zeroaTresMeses.cs [Projeto]",
+              "RelativeToolTip": "Ame\\frm_zeroaTresMeses.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T21:53:58.547Z",
+              "EditorCaption": " [Projeto]"
             }
           ]
         }
