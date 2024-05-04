@@ -4,16 +4,40 @@
     <Compile Update="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="frm11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmP10.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="frmP2.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="frmP3.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="frm_saudeDaCrianca.cs">
+    <Compile Update="frmP4.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="frm_zeroaTresMeses.cs">
+    <Compile Update="frmP5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmP6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmP7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmP8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmP9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmP1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmde0a3meses.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

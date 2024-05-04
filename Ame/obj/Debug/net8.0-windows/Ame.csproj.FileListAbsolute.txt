@@ -43,8 +43,6 @@ D:\Projetos\Ame\Ame\bin\Debug\net8.0-windows\Ame.pdb
 D:\Projetos\Ame\Ame\obj\Debug\net8.0-windows\Ame.Form1.resources
 D:\Projetos\Ame\Ame\obj\Debug\net8.0-windows\Ame.frmP2.resources
 D:\Projetos\Ame\Ame\obj\Debug\net8.0-windows\Ame.frmP3.resources
-D:\Projetos\Ame\Ame\obj\Debug\net8.0-windows\Ame.frm_P1.resources
-D:\Projetos\Ame\Ame\obj\Debug\net8.0-windows\Ame.frm_zeroaTresMeses.resources
 D:\Projetos\Ame\Ame\obj\Debug\net8.0-windows\Ame.csproj.GenerateResource.cache
 D:\Projetos\Ame\Ame\obj\Debug\net8.0-windows\Ame.GeneratedMSBuildEditorConfig.editorconfig
 D:\Projetos\Ame\Ame\obj\Debug\net8.0-windows\Ame.AssemblyInfoInputs.cache
@@ -56,3 +54,13 @@ D:\Projetos\Ame\Ame\obj\Debug\net8.0-windows\refint\Ame.dll
 D:\Projetos\Ame\Ame\obj\Debug\net8.0-windows\Ame.pdb
 D:\Projetos\Ame\Ame\obj\Debug\net8.0-windows\Ame.genruntimeconfig.cache
 D:\Projetos\Ame\Ame\obj\Debug\net8.0-windows\ref\Ame.dll
+D:\Projetos\Ame\Ame\obj\Debug\net8.0-windows\Ame.frmP10.resources
+D:\Projetos\Ame\Ame\obj\Debug\net8.0-windows\Ame.frmP4.resources
+D:\Projetos\Ame\Ame\obj\Debug\net8.0-windows\Ame.frmP5.resources
+D:\Projetos\Ame\Ame\obj\Debug\net8.0-windows\Ame.frmP6.resources
+D:\Projetos\Ame\Ame\obj\Debug\net8.0-windows\Ame.frmP7.resources
+D:\Projetos\Ame\Ame\obj\Debug\net8.0-windows\Ame.frmP8.resources
+D:\Projetos\Ame\Ame\obj\Debug\net8.0-windows\Ame.frmP9.resources
+D:\Projetos\Ame\Ame\obj\Debug\net8.0-windows\Ame.frmde0a3meses.resources
+D:\Projetos\Ame\Ame\obj\Debug\net8.0-windows\Ame.frmP1.resources
+D:\Projetos\Ame\Ame\obj\Debug\net8.0-windows\Ame.frm11.resources
