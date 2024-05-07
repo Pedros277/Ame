@@ -16,6 +16,12 @@
     <Compile Update="frmP13.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="frmP14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmP15.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="frmP2.cs">
       <SubType>Form</SubType>
     </Compile>
