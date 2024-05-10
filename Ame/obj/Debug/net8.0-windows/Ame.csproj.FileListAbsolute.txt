@@ -77,3 +77,6 @@ D:\Projetos\Ame\Ame\obj\Debug\net8.0-windows\Ame.frmP21.resources
 D:\Projetos\Ame\Ame\obj\Debug\net8.0-windows\Ame.frmP22.resources
 D:\Projetos\Ame\Ame\obj\Debug\net8.0-windows\Ame.frmP23.resources
 D:\Projetos\Ame\Ame\obj\Debug\net8.0-windows\Ame.frmP24.resources
+D:\Projetos\Ame\Ame\obj\Debug\net8.0-windows\Ame.frmP25.resources
+D:\Projetos\Ame\Ame\obj\Debug\net8.0-windows\Ame.frmP26.resources
+D:\Projetos\Ame\Ame\obj\Debug\net8.0-windows\Ame.frmP27.resources

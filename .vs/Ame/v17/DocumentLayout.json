@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\Projetos\\Ame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE17E011-6CAD-4F5D-9ACB-7693E3B0F8C4}|Ame\\Ame.csproj|d:\\projetos\\ame\\ame\\frmp26.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE17E011-6CAD-4F5D-9ACB-7693E3B0F8C4}|Ame\\Ame.csproj|solutionrelative:ame\\frmp26.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE17E011-6CAD-4F5D-9ACB-7693E3B0F8C4}|Ame\\Ame.csproj|d:\\projetos\\ame\\ame\\frmp26.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AE17E011-6CAD-4F5D-9ACB-7693E3B0F8C4}|Ame\\Ame.csproj|solutionrelative:ame\\frmp26.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{AE17E011-6CAD-4F5D-9ACB-7693E3B0F8C4}|Ame\\Ame.csproj|d:\\projetos\\ame\\ame\\frmp28.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE17E011-6CAD-4F5D-9ACB-7693E3B0F8C4}|Ame\\Ame.csproj|solutionrelative:ame\\frmp28.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,26 +23,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmP26.cs",
-              "DocumentMoniker": "D:\\Projetos\\Ame\\Ame\\frmP26.cs",
-              "RelativeDocumentMoniker": "Ame\\frmP26.cs",
-              "ToolTip": "D:\\Projetos\\Ame\\Ame\\frmP26.cs",
-              "RelativeToolTip": "Ame\\frmP26.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAIwBwAAAAMAAAA",
+              "Title": "frmP28.cs [Projeto]",
+              "DocumentMoniker": "D:\\Projetos\\Ame\\Ame\\frmP28.cs",
+              "RelativeDocumentMoniker": "Ame\\frmP28.cs",
+              "ToolTip": "D:\\Projetos\\Ame\\Ame\\frmP28.cs [Projeto]",
+              "RelativeToolTip": "Ame\\frmP28.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T13:57:23.542Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmP26.cs [Projeto]",
-              "DocumentMoniker": "D:\\Projetos\\Ame\\Ame\\frmP26.cs",
-              "RelativeDocumentMoniker": "Ame\\frmP26.cs",
-              "ToolTip": "D:\\Projetos\\Ame\\Ame\\frmP26.cs [Projeto]",
-              "RelativeToolTip": "Ame\\frmP26.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T13:56:17.343Z",
+              "WhenOpened": "2024-05-10T03:29:28.894Z",
               "EditorCaption": " [Projeto]"
             }
           ]
