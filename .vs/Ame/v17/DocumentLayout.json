@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "D:\\Projetos\\Ame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE17E011-6CAD-4F5D-9ACB-7693E3B0F8C4}|Ame\\Ame.csproj|d:\\projetos\\ame\\ame\\frmp33.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AE17E011-6CAD-4F5D-9ACB-7693E3B0F8C4}|Ame\\Ame.csproj|solutionrelative:ame\\frmp33.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{AE17E011-6CAD-4F5D-9ACB-7693E3B0F8C4}|Ame\\Ame.csproj|d:\\projetos\\ame\\ame\\frmp12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE17E011-6CAD-4F5D-9ACB-7693E3B0F8C4}|Ame\\Ame.csproj|solutionrelative:ame\\frmp12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE17E011-6CAD-4F5D-9ACB-7693E3B0F8C4}|Ame\\Ame.csproj|d:\\projetos\\ame\\ame\\frmp33.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE17E011-6CAD-4F5D-9ACB-7693E3B0F8C4}|Ame\\Ame.csproj|solutionrelative:ame\\frmp33.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE17E011-6CAD-4F5D-9ACB-7693E3B0F8C4}|Ame\\Ame.csproj|d:\\projetos\\ame\\ame\\frmp12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE17E011-6CAD-4F5D-9ACB-7693E3B0F8C4}|Ame\\Ame.csproj|solutionrelative:ame\\frmp12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE17E011-6CAD-4F5D-9ACB-7693E3B0F8C4}|Ame\\Ame.csproj|d:\\projetos\\ame\\ame\\frmp32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE17E011-6CAD-4F5D-9ACB-7693E3B0F8C4}|Ame\\Ame.csproj|solutionrelative:ame\\frmp32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE17E011-6CAD-4F5D-9ACB-7693E3B0F8C4}|Ame\\Ame.csproj|D:\\Projetos\\Ame\\ame\\frmp32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AE17E011-6CAD-4F5D-9ACB-7693E3B0F8C4}|Ame\\Ame.csproj|solutionrelative:ame\\frmp32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE17E011-6CAD-4F5D-9ACB-7693E3B0F8C4}|Ame\\Ame.csproj|d:\\projetos\\ame\\ame\\frmp31.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AE17E011-6CAD-4F5D-9ACB-7693E3B0F8C4}|Ame\\Ame.csproj|solutionrelative:ame\\frmp31.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{AE17E011-6CAD-4F5D-9ACB-7693E3B0F8C4}|Ame\\Ame.csproj|d:\\projetos\\ame\\ame\\frmp12.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE17E011-6CAD-4F5D-9ACB-7693E3B0F8C4}|Ame\\Ame.csproj|solutionrelative:ame\\frmp12.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,64 +31,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "frmP33.cs",
-              "DocumentMoniker": "D:\\Projetos\\Ame\\Ame\\frmP33.cs",
-              "RelativeDocumentMoniker": "Ame\\frmP33.cs",
-              "ToolTip": "D:\\Projetos\\Ame\\Ame\\frmP33.cs",
-              "RelativeToolTip": "Ame\\frmP33.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAuwBcAAAAPAAAA",
+              "Title": "frmP12.cs [Projeto]",
+              "DocumentMoniker": "D:\\Projetos\\Ame\\Ame\\frmP12.cs",
+              "RelativeDocumentMoniker": "Ame\\frmP12.cs",
+              "ToolTip": "D:\\Projetos\\Ame\\Ame\\frmP12.cs [Projeto]",
+              "RelativeToolTip": "Ame\\frmP12.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T08:55:02.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T13:56:15.845Z",
+              "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmP33.cs [Projeto]",
-              "DocumentMoniker": "D:\\Projetos\\Ame\\Ame\\frmP33.cs",
-              "RelativeDocumentMoniker": "Ame\\frmP33.cs",
-              "ToolTip": "D:\\Projetos\\Ame\\Ame\\frmP33.cs [Projeto]",
-              "RelativeToolTip": "Ame\\frmP33.cs [Projeto]",
+              "Title": "frmP12.cs",
+              "DocumentMoniker": "D:\\Projetos\\Ame\\Ame\\frmP12.cs",
+              "RelativeDocumentMoniker": "Ame\\frmP12.cs",
+              "ToolTip": "D:\\Projetos\\Ame\\Ame\\frmP12.cs",
+              "RelativeToolTip": "Ame\\frmP12.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAlwDYAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T08:42:23.871Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmP32.cs",
-              "DocumentMoniker": "D:\\Projetos\\Ame\\Ame\\frmP32.cs",
-              "RelativeDocumentMoniker": "Ame\\frmP32.cs",
-              "ToolTip": "D:\\Projetos\\Ame\\Ame\\frmP32.cs",
-              "RelativeToolTip": "Ame\\frmP32.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAewBwAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T08:39:41.189Z",
+              "WhenOpened": "2024-05-13T13:53:12.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmP32.cs [Projeto]",
-              "DocumentMoniker": "D:\\Projetos\\Ame\\Ame\\frmP32.cs",
-              "RelativeDocumentMoniker": "Ame\\frmP32.cs",
-              "ToolTip": "D:\\Projetos\\Ame\\Ame\\frmP32.cs [Projeto]",
-              "RelativeToolTip": "Ame\\frmP32.cs [Projeto]",
+              "DocumentIndex": 2,
+              "Title": "frmP12.Designer.cs",
+              "DocumentMoniker": "D:\\Projetos\\Ame\\Ame\\frmP12.Designer.cs",
+              "RelativeDocumentMoniker": "Ame\\frmP12.Designer.cs",
+              "ToolTip": "D:\\Projetos\\Ame\\Ame\\frmP12.Designer.cs",
+              "RelativeToolTip": "Ame\\frmP12.Designer.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAD4v2kAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T00:05:04.662Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmP31.cs [Projeto]",
-              "DocumentMoniker": "D:\\Projetos\\Ame\\Ame\\frmP31.cs",
-              "RelativeDocumentMoniker": "Ame\\frmP31.cs",
-              "ToolTip": "D:\\Projetos\\Ame\\Ame\\frmP31.cs [Projeto]",
-              "RelativeToolTip": "Ame\\frmP31.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T23:47:24.694Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2024-05-13T13:52:41.655Z",
+              "EditorCaption": ""
             }
           ]
         }
